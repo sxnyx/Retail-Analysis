@@ -17,7 +17,7 @@ leading to improved sales and customer satisfaction.
 
 ---
 
-## 🧠 Project Objective
+##  Project Objective
 
 XYZ Retail lacked a real-time view of:
 - Sales performance across channels
@@ -31,7 +31,7 @@ This project addresses these issues by building an integrated dashboard with:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Tool         | Purpose                          |
 |--------------|----------------------------------|
@@ -42,7 +42,7 @@ This project addresses these issues by building an integrated dashboard with:
 
 ---
 
-## 🧩 Database Schema
+##  Database Schema
 
 The project uses the following tables, created in **MySQL**:
 - `customers`
@@ -53,15 +53,13 @@ The project uses the following tables, created in **MySQL**:
 
 ---
 
-## 🔄 ETL Process
+##  ETL Process
 
 **Extract:** Data sourced from Excel sheets for Customers, Products, Sales, etc.  
 **Transform:** Data cleaned and formatted using Python (Pandas).  
 **Load:** Final structured data loaded into MySQL database.
 
-📌 **Screenshot Placeholder: Code Snippet or Table Preview**
 
-![ETL Process](screenshots/etl_process.png)
 
 ---
 
