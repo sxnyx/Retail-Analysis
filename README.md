@@ -95,9 +95,7 @@ Developed interactive dashboards in **Power BI** showing:
 ✅ 30% reduction in overstocking and stockouts  
 ✅ Faster decision-making with real-time insights
 
-📌 **Screenshot Placeholder: Impact metrics or charts**
 
-![Impact Summary](screenshots/impact.png)
 
 ---
 
@@ -108,12 +106,4 @@ Developed interactive dashboards in **Power BI** showing:
 - Integration with live databases and APIs
 
 ---
-
-## 📸 Screenshots
-
-- [x] Database Schema  
-- [x] ETL Workflow  
-- [x] Python Analysis  
-- [x] Power BI Dashboard  
-- [x] Business Impact Summary
 
