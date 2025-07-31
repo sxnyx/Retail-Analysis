@@ -19,7 +19,7 @@ leading to improved sales and customer satisfaction.
 
 ##  Project Objective
 
-XYZ Retail lacked a real-time view of:
+The Retail lacked a real-time view of:
 - Sales performance across channels
 - Customer segmentation and loyalty behavior
 - Inventory planning and stock optimization
